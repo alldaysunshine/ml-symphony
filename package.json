@@ -37,7 +37,8 @@
     "packages": [
       "symphony_lib/",
       "symphony_ui/",
-      "widgets/*"
+      "widgets/*",
+      "symphony_standalone/"
     ],
     "nohoist": [
       "**/@storybook/**"
